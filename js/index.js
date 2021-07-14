@@ -13,7 +13,7 @@ function playPause() {
 $(document).ready(function() {
     
     $(function () {
-        $("#commentForm").validate();// حقا الزامي
+        $("#commentForm").validate();// حقل الزامي
     });
 
 });
